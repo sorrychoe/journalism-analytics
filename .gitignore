@@ -8,4 +8,5 @@
 #pycache
 __pycache__/
 
-
+#font
+/NanumBarunGothic.ttf
